@@ -1,0 +1,20 @@
+[
+    {
+      "title": "MovieTube",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the ReactJS by building an app. This app mainly focused on Frontend",
+      "skills": ["React", "CSS", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Dhiraj298/MovieApp/tree/master"
+    },
+    {
+      "title": "Khana.com",
+      "imageSrc": "projects/project.png",
+      "description": "MERN stack app created to implement the skills I have learned recently .",
+      "skills": ["React", "MongoDb", "Node" , "Express"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Dhiraj298/Khana.com/tree/master"
+    }
+    
+]
+  
