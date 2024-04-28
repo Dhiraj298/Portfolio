@@ -31,7 +31,7 @@ const Experience = () => {
               <li key={id} className="exp_historyItem">
                 <img
                   src={`/assets/${historyItem.imageSrc}`}
-                  alt={`${historyItem.organisation} Logo`}
+                  alt={`${historyItem.organisation} `}
                 />
                 <div className="exp_historyItemDetails">
                   <h3>{`${historyItem.role}, ${historyItem.organisation}`}</h3>

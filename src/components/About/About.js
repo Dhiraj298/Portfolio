@@ -3,7 +3,7 @@ import './about.css'
 // import logo1 from '../../../public/assets/cute-boy-cartoon.png';
 import { FcTemplate } from "react-icons/fc";
 import { FcFilingCabinet } from "react-icons/fc";
-import { FcSelfServiceKiosk } from "react-icons/fc";
+// import { FcSelfServiceKiosk } from "react-icons/fc";
 const About = () => {
   return (
     <section className="about_container" id="about">

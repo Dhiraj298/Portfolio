@@ -17,7 +17,7 @@ const Hero = () => {
       </div>
       <img
         src={'/assets/3d-rendering-cartoon-like-man-working-computer_23-2150797572.jpg'}
-        alt="Hero image of me"
+        alt="Hero of me"
         className="hero_heroImg"
       />
       <div className="hero_topBlur" />

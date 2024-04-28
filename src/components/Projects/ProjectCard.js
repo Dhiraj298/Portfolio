@@ -8,7 +8,7 @@ const ProjectCard = ({
     <div className="card_container">
       <img
         src={`/assets/${imageSrc}`}
-        alt={`Image of ${title}`}
+        alt={`${title}`}
         classNamecard_="image"
       />
       <h3 className="card_title">{title}</h3>

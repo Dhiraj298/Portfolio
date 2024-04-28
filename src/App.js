@@ -1,10 +1,10 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import Navbar from './components/Navbar/Navbar';
 import Hero from './components/Hero/Hero';
 import About from './components/About/About';
 import Experience from './components/Experience/Experience';
-import { Projects } from './components/Projects/Project';
+// import { Projects } from './components/Projects/Project';
 import Contact from './components/Contact/Contact';
 
 function App() {
